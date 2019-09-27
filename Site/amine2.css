@@ -1,0 +1,51 @@
+div.a {
+color:white;
+border:5px solid black; 
+}
+
+body.style{
+	background:#FFF5EF;
+}
+.b{
+;
+width:30%;
+box-shadow: 10px 5px 5px #FFF2C9;
+}
+
+div.c{
+border:170px solid #E8AFA0; 
+}
+
+#ab {
+size: 10px;
+color:orange;
+}
+
+p{
+size:8px;
+color:#50468C;
+font-style: italic;
+}
+
+h1 {
+text-align: center;
+}
+
+p{
+	align-content: center;
+}
+
+div.solo{
+	padding-top: 10px;
+}
+h1:hover{
+	background-color: blue;
+}
+
+	h1 {
+  text-shadow: 0px 0px 9px #FDD131;
+  color: #F9A41E
+}
+
+
+}

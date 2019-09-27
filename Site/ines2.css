@@ -1,0 +1,49 @@
+html{
+		font size:70%;
+		margin:20;
+		padding:40;
+		}
+
+body{
+			background-color:#875F5F;
+			font-family:Verdana;
+			font-size:600;
+		}
+img{
+	float:Left;
+}
+h1 {
+		font-size:500;
+		font-style:italic;
+		color:#0F0303;
+		text-align:center;
+		margin:0;
+		}
+.info{
+	color:navy;
+	margin:0;
+	text-align:center;
+}
+
+h2{
+		font-weight:600;
+		font-style:arial;
+		Color:##373434;
+		text-align:center-left;
+}
+
+h2:hover{
+	background-color:gold;
+}	
+p{
+	font-style:italic;
+color:white;
+}
+	
+.ex{
+	color:white;
+	font-style:arial;
+}
+
+
+

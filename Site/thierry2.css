@@ -1,0 +1,111 @@
+body.style{ 
+	background-color: #121715;
+	color: white;
+	font-family: "Times New Roman", Times, serif;
+}
+.infophoto{
+	 height: 200px;
+     margin: auto;
+     border: 2px solid black;
+     border-radius: 30px;
+     background-color: red;
+     font-size: 20px;
+     font-weight: bold;
+     padding-right: 30px;
+     padding-left: 30px;
+     text-align: right;
+     padding-top: 10px;
+     color: white;
+}
+.infophoto h1{
+	color: white;
+	font-size: 30px;
+	margin: 0px;
+    font-family: Impact,sans serif;
+}
+#profilepic{
+	height:180px;
+    width:180px;
+    float:left;
+    box-shadow: 10px 5px 5px white;
+}
+#profilepic:hover{
+    box-shadow: 10px 5px 5px black;
+    opacity: 0.3;
+}
+  
+.myTable
+{
+	 border: 0px solid white;
+	 border-radius: 100px;
+	 color: white;
+}
+.myTable h1
+{
+	font-family: Impact,sans serif;
+	text-shadow: 1px 1px 2px gray;
+	text-align: center;
+	font-size: 30px;
+	margin-bottom: 0px;
+}
+.myTable li
+{
+	font-style: italic;
+}
+.myTable img
+{
+    height:100px;
+    width:100px;
+	padding-left: 70px;
+}
+.myTable img:hover
+{
+	opacity: 0.3;
+}
+.myTable td
+{
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-bottom: 20px;
+	padding-right: 20px;
+	border-radius: 70px;
+    border: 2px solid white;
+    margin-bottom: 0px;
+}
+.myTable tr
+{
+	border: 2px solid white;
+	margin-bottom: 0px;
+}
+img.links{
+    height:50px;
+    width:50px;
+    float: left;
+}
+p.title{
+	font-size: 20px;
+	font-weight: bold;
+	text-decoration: underline;
+	margin: 0px;
+	color: white;
+}
+p.date{
+	margin: 0px;
+	font-weight: bold;
+	color: white;
+}
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: white;
+}
+
+a:hover {
+  color: gray;
+}
+
+a:active {
+  color: white;
+}

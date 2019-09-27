@@ -1,0 +1,51 @@
+div.a {
+background: #74BBE4;
+color:white;
+border:5px solid black; 
+}
+
+
+.b{
+background: #FC7F3C;
+width:100%;
+}
+
+div.c{
+background: #895959;
+border:5px solid black; 
+}
+
+
+td{
+	width:50%;
+	border:2px solid black;
+}
+
+th{
+	width:50%;
+	border:2px solid black;
+}
+
+h1 {
+text-align: center;
+}
+
+p{
+	align-content: center;
+}
+
+
+
+
+.table {
+ border-width:10px; 
+ border-style:solid; 
+ border-color:black;
+ width:100%;
+ }
+.td { 
+ border-width:2px;
+ border-style:solid; 
+ border-color:grey;
+ width:100%;
+ }

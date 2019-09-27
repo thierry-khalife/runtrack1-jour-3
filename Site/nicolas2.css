@@ -1,0 +1,122 @@
+html {
+	height: 100%;
+	font-family: serif;
+}
+
+body {
+	height: 100%;
+}
+
+#global {
+	height: 220%;
+	width: 100%;
+}
+
+#corps {
+	height: 100%;
+}
+
+#margegauche {
+	float: top;
+	width: 100%;
+	height: 300px;
+	background-color: #FF4A4E;
+}
+
+#nico {
+	width: 150px;
+	height: 200px;
+	border-radius: 20px;
+	border: 3px solid black;
+	border-color: white;
+	margin-top: 60px;
+	margin-left: 400px;
+	float: left;
+}
+
+.tableau {
+	margin-left: 30px;
+}
+
+#top {
+	text-align: center;
+	text-shadow: #FFFF 1px 0px 3px;
+	color: #FF4A4E;
+	font-size: 20px;
+}
+
+.dates {
+	font-weight: bold;
+	width: 110px;
+}
+
+.titre {
+	color: #FF4A4E;
+	text-align: center;
+}
+
+#moi {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+#nomgauche {
+	margin-left: 560px;
+	color: white;
+	font-style: italic;
+	text-shadow: 1px 1px 2px black;
+}
+
+#infos {
+	margin-left: 560px;
+	color: white;
+}
+
+#infotitle {
+	margin-left: 560px;
+	color:white;
+	text-decoration: underline;
+}
+
+.logicielimg {
+	height: 50px;
+	width: 50px;
+}
+
+.cases {
+	width: 500px;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	border: 3px solid black;
+}
+
+#titrecolone {
+	color: #FF4A4E;
+	font-size: 22px;
+	font-style: italic;
+}
+
+.etoilebleu {
+	color: #FF4A4E;
+	font-size: 22px;
+	font-style: italic;
+}
+
+.etoileblanche {
+	font-size: 22px;
+	font-size: italic;
+}
+
+#maitrise {
+	padding-right: 300px;
+	padding-left: 300px;
+}
+
+a:hover {
+	background-color: white;
+}
+
+a:link {
+	color: black;
+}
